@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/projectzoopat%20/static/css/main.f70fa2d7.css",
+    "main.js": "/projectzoopat%20/static/js/main.12916c47.js",
+    "static/js/787.c787f78e.chunk.js": "/projectzoopat%20/static/js/787.c787f78e.chunk.js",
+    "static/media/image1.jpg": "/projectzoopat%20/static/media/image1.904ee766d05a88dc4114.jpg",
+    "static/media/image3.jpg": "/projectzoopat%20/static/media/image3.70cbaedfa61755d2e6ad.jpg",
+    "static/media/image2.jpg": "/projectzoopat%20/static/media/image2.9ed97c941c42a5575913.jpg",
+    "index.html": "/projectzoopat%20/index.html",
+    "main.f70fa2d7.css.map": "/projectzoopat%20/static/css/main.f70fa2d7.css.map",
+    "main.12916c47.js.map": "/projectzoopat%20/static/js/main.12916c47.js.map",
+    "787.c787f78e.chunk.js.map": "/projectzoopat%20/static/js/787.c787f78e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f70fa2d7.css",
+    "static/js/main.12916c47.js"
+  ]
+}
